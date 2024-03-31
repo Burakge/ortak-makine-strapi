@@ -15,7 +15,7 @@ module.exports = ({ env }) => ({
       user,
       password,
       ssl: {
-        rejectUnauthorized: false,
+        ca: env('DATABASE_CA')
       },
     },
       debug: false,
