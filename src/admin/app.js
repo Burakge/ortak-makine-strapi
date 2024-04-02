@@ -16,11 +16,11 @@ const config = {
   // Extend the translations
   translations: {
     en: {
-      "app.components.LeftMenu.navbrand.title": "Store Dashboard",
+      "app.components.LeftMenu.navbrand.title": "Ortak Makine Dashboard",
 
       "app.components.LeftMenu.navbrand.workplace": "Testing",
 
-      "Auth.form.welcome.title": "Welcom to Dwinatech Store",
+      "Auth.form.welcome.title": "Welcom to Ortak Makine",
 
       "Auth.form.welcome.subtitle": "Login to your account",
 
